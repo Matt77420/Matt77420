@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Matt77420
-- 👀 I’m interested in learning Python/SQL/Business Analytics and work on projects
-- 🌱 I’m currently learning coding --> very new
+- 👀 I’m interested in improving my knowledge in Python/SQL/Business Analytics and work on projects
+- 🌱 I have skills in machine learning, deep learning and database manipulation
 - 💞️ I’m looking to collaborate on different projects from Real Estate analytics to financial markets
 - 📫 How to reach me --> Message me
 
